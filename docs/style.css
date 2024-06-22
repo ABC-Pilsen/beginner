@@ -2,7 +2,6 @@ table, tr, td {
     border: 2px solid black;
     border-radius: 10px;
     border-collapse: collapse;
-    align: center;
 }
 
 td {
